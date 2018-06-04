@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name" translatable="false">Ubi</string>
+    <string name="Close"> Close</string>
+    <string name="notify_title">Alert from Family finder</string>
+
+    // You should edit this codes to yours
+    <string name="Map_API_Key" translatable="false">AIzaSyDQZq1dn_6jWmPfd2sGuXkoZik94ld6-_U</string> //Android maps sdk
+
+    // if you donot want to add ads to the app please leave it empty
+    <string name="banner_ad_unit_id" translatable="false">ADS</string> //banner adv.
+    <string name="Pop_ad_unit_id" translatable="false"> Pop_ad_unit_id</string> //int. adv.
+
+
+
+    <string name="NoTrackerList"> You do not have any person to track at this time. Please login with this account by your other devices</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="back"> Back</string>
+    <string name="RateDesc"> Would you like to rate the app?</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome to Ubi :)</string>
+    <string name="slide_1_desc">The easiest way to track your family members.</string>
+
+    <string name="slide_2_title"> Family finder</string>
+    <string name="slide_2_desc">Find and track your family members with easy way. </string>
+
+    <string name="slide_3_title">Easy to use</string>
+    <string name="slide_3_desc">We are using new tech. to make the app easy to use.</string>
+
+    <string name="slide_4_title">Light</string>
+    <string name="slide_4_desc">The app is so small in size and light on phone memory</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="identify">Identify</string>
+    <string name="enter_your_name">Enter your name....</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_up">Sign up</string>
+    <string name="battery">Battery</string>
+    <string name="login_char">Please Complete all your  information first .At lest 5 character in every field</string>
+    <string name="login_error">Cannot create account for your, accept the permmison please</string>
+    <string name="prem_n">cannot access it denaied</string>
+</resources>
